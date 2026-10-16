@@ -1,4 +1,6 @@
-# UPSHIFT
+# seo
+
+## UPSHIFT
 
 A bespoke Next.js App Router website for a UK SEO and web design studio. It exports to static HTML with interactive React components.
 
