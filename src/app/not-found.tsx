@@ -1,0 +1,2 @@
+import { Brand } from "@/components/brand";
+export default function NotFound() { return <><header className="document-header"><div className="container"><Brand/></div></header><main className="document-content"><span className="eyebrow">404 / A SLIGHT DETOUR</span><h1>Let’s get you<br/>back on track.</h1><p>This page has moved or doesn’t exist. Your next opportunity is still waiting.</p><a className="button button-dark" href="/" style={{marginTop:25}}>Back to UPSHIFT ↗</a></main></>; }
